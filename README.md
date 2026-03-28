@@ -41,6 +41,7 @@ Software Engineer passionate about building robust and scalable applications. I 
 <div align="center">
   
   ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkmadj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkmadj&layout=compact&theme=radical&hide_border=true)
   
