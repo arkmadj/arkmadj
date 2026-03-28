@@ -39,11 +39,25 @@ Software Engineer passionate about building robust and scalable applications. I 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkmadj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkmadj&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkmadj&layout=compact&theme=radical&hide_border=true)
-  
+
+### 📈 Overall Statistics
+
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkmadj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkmadj&theme=radical&hide_border=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkmadj&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### 📊 Detailed Activity
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkmadj&theme=radical)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkmadj&theme=radical)
+
 </div>
 
 ## 🔥 Featured Projects
